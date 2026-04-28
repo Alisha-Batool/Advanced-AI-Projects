@@ -20,9 +20,9 @@ This project focuses on building a Natural Language Processing (NLP) model to cl
 
 ### 🔍 Key Steps
 
-✔ Loaded and explored the AG News dataset
-✔ Tokenized text using BERT tokenizer
-✔ Fine-tuned a pre-trained BERT model
+✔ Loaded and explored the AG News dataset\
+✔ Tokenized text using BERT tokenizer\
+✔ Fine-tuned a pre-trained BERT model\
 ✔ Trained using Hugging Face Trainer API
 
 ### 🤖 Model Used
@@ -31,7 +31,7 @@ This project focuses on building a Natural Language Processing (NLP) model to cl
 
 ### 📊 Evaluation Metrics
 
-✔ Accuracy Score
+✔ Accuracy Score\
 ✔ F1-score
 
 ### 🎯 Objective
